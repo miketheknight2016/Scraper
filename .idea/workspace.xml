@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c4c5935-db69-47c3-82e0-87734b1c77ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_8_40_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scraper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controlsfx-8.40.11(1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controlsfx-8.40.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.13.1(1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Scraper/META-INF/Scraper.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/KWTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/KeywordGrabber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Snovio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/SnovioDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Snovio_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/KeywordGrabber.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Snovio.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SnovioDisplay.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/KeywordGrabber.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Snovio.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/KWTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/KeywordGrabber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Snovio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Snovio_API.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-dropbox.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ILTMS Arcade Cabinet Plans-compressed.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100000000010000/Super Mario Odyssey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100000000010000/cheats/3ca12dfaaf9c82da.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100000000010000/cheats/f5dccddb37e97724.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01000060085D2000/A Hole New World.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01000060085D2000/cheats/675d27811cb8f841.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100024008310000/Street Fighter 30th Anniversary Collection.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100024008310000/cheats/A65E31F83F2CBB54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010003F003A34000/Pokemon Let's Go, Pikachu!.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010003F003A34000/cheats/1C375692DE4F4B87.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010008900705C000/Dragon Quest Builders.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010008900705C000/cheats/93a84d948c179001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01000c9004fa2000/ACA NEOGEO ROBO ARMY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01000c9004fa2000/cheats/10597edb95065a24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001180021FA000/Shovel Knight - Specter of Torment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001180021FA000/cheats/5eabc1e307d28486.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100128003A24000/Elliot Quest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100128003A24000/cheats/f35372f6362e4e05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100152000022000/Mario Kart 8 Deluxe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100152000022000/cheats/96dfd1769e560c27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100187003A36000/Pokemon Let's Go, Eevee!.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100187003A36000/cheats/0a3f0d21e67dad80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001AE00C1B2000/NBA Playgrounds 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001AE00C1B2000/cheats/0cf694c10af10fa8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001AE00C1B2000/cheats/689ca7b6ce68bf90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001AE00C1B2000/cheats/a9fb2947a86384aa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001b300b9be000/Diablo III Eternal Collection.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01001b300b9be000/cheats/eafc2cef9b161d20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100276009872000/Okami HD(EUR US).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100276009872000/cheats/a4fddc7fd35b30cb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01002D4007AE0000/Mega Man Legacy Collection(US).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01002D4007AE0000/cheats/381ebb12fb9a8c78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010036b0034e4000/Super Mario Party.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010036b0034e4000/cheats/9f13b69757666412.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01003C6008940000/GUNBIRD.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01003C6008940000/cheats/5783a91c341b29e4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01003C6008940000/cheats/c6a4443809d9fa0a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010047F001DBC000/ACA NEOGEO Samurai Shodown IV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010047F001DBC000/cheats/21610cabd4340c7f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004C500B8E0000/Monkey King - Master of the Clouds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004C500B8E0000/cheats/40961c0a47988049.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004ab00a260000/Dark Souls Remastered.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004ab00a260000/cheats/9985b82cc518ffaf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004ab00a260000/cheats/f4b72c9ef704ca64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004c000afdc000/ACA NEOGEO METAL SLUG 5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01004c000afdc000/cheats/31c11fff42bc6e6c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010052a00a306000/ACA NEOGEO NINJA COMBAT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010052a00a306000/cheats/82c4a7a267c13022.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010052a00b5d2000/LEGO Harry Potter Collection.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010052a00b5d2000/cheats/01c46c3e39c5370f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100574002AF4000/One Piece Unlimited World Red.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100574002AF4000/cheats/F1546B842FCF9D6C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010057D0021E8000/Shovel Knight Treasure Trove.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010057D0021E8000/cheats/1fe2563d9b1ff9b4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010057d006492000/Octopath Traveler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010057d006492000/cheats/0d8a6a8804a6654c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010057d006492000/cheats/72fd3930fac64f21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100583001dca000/ACA NEOGEO KOF 99.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100583001dca000/cheats/4b73e372b81fba06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005C60086BE000/Mega Man X Legacy Collection (USA).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005C60086BE000/cheats/ead37d36abd7c4c8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005C600AC68000/Valkyria Chronicles 4(EUR).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005C600AC68000/cheats/3758602aa47add37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005d700a2f8000/ACA NEOGEO GHOST PILOTS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01005d700a2f8000/cheats/1f6db096bf36fb72.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100605008268000/Titan Quest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100605008268000/cheats/473269469145c1cf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100643002136000/Resident Evil - Revelations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100643002136000/cheats/7b0e2611e8c9cae5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100646009fbe000/Dead Cells (EUR).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100646009fbe000/cheats/62f7f1e54f9353f8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100646009fbe000/cheats/75c9b41b4d52c9b0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010068600AD16000/Beyblade Burst Battle Zero (JPN).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010068600AD16000/cheats/bc9ce552d047a306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006a800016e000/Super Smash Bros. Ultimate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006a800016e000/cheats/fd471eb458c915e7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006f7001d10000/Monster Boy and the Cursed Kingdom.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006f7001d10000/cheats/107a4d01b1bf5d44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006f7001d10000/cheats/bef7bd1a79121305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006f7001d10000/cheats/ee7693162065f488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006fe005b6e000/Sky Force Reloaded.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01006fe005b6e000/cheats/98abc1afa513404a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100720008ED2000/STRIKERS 1945 II.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100720008ED2000/cheats/6cd0059343d5c11a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100720008ED2000/cheats/c1fcd151248425e7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010075600AE96000/Just Dance 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010075600AE96000/cheats/48bcb6087dca2090.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010076F0049A2000/Bayonetta (JPN).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010076F0049A2000/cheats/7ae22ddabce854f5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010078d000f88000/Dragon Ball Xenoverse 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010078d000f88000/cheats/15f6affe27bc79dc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007920038F6000/ACA NEOGEO MAGICIAN LORD.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007920038F6000/cheats/8945fc868c858831.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007960049A0000/Bayonetta 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007960049A0000/cheats/40ea84adf0a7bc26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007960049A0000/cheats/f87603933acaa161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007E800AFB6000/ACA NEOGEO NINJA COMMANDO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007E800AFB6000/cheats/13b314a955c5cac4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007EF00011E000/The Legend of Zelda Breath of the Wild.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007EF00011E000/cheats/16a91992bba71201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007d7001d0e000/Oceanhorn - Monster of Uncharted Seas (USA).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01007d7001d0e000/cheats/3ad80bd8cfcb3423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010086300486e000/ACA NEOGEO METAL SLUG 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010086300486e000/cheats/32d6e6c4f9d89524.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01008d000877c000/ACA NEOGEO SENGOKU 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01008d000877c000/cheats/3561311d56fbdfb0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01008fd004db6000/ACA NEOGEO METAL SLUG X.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01008fd004db6000/cheats/06281c2c7552d226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010099B00A2DC000/DragonBlaze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/010099B00A2DC000/cheats/9ec9964ffd6e3f73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009AA000FAA000/Sonic Mania Plus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009AA000FAA000/cheats/03fd1524e17a841c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009b300872a000/ACA NEOGEO SENGOKU 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009b300872a000/cheats/3f6ca7b86b217fa0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009bf0072d4000/Captain Toad Treasure Tracker.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009bf0072d4000/cheats/f87603933acaa161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009ce00afae000/ACA NEOGEO METAL SLUG 4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009ce00afae000/cheats/f6b3aba9ccf21914.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009d4001dc4000/ACA NEOGEO World Heroes Perfect.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009d4001dc4000/cheats/ce31f943f1e25699.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009dc001db6000/ACA NEOGEO KOF 95.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/01009dc001db6000/cheats/ba81650bec0cbd54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100A2F006FBE000/Cat Quest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100A2F006FBE000/cheats/0a4d71a302961148.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ADF0096F2000/Samurai Aces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ADF0096F2000/cheats/49cf469a110921e7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100B2600A398000/TENGAI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100B2600A398000/cheats/f11440abc24deb09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BBD00976C000/Project Highrise Architects Edition (EUR).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BBD00976C000/cheats/7c94babbddf3d243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BCB00AE98000/GUNBIRD 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BCB00AE98000/cheats/266c41c9585e9a14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BCB00AE98000/cheats/abac5a08624f0306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BDE00862A000/Mario Tennis Aces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BDE00862A000/cheats/4b9a64ded26c6e46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100BDE00862A000/cheats/f5942324c223cd16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100C1000706C000/Blossom Tales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100C1000706C000/cheats/94b20fd4bc79108e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100C11009378000/Senjou no Valkyria 4 (JPN).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100C11009378000/cheats/13197ccf3745e1c5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100DA200A09A000/KeroBlaster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100DA200A09A000/cheats/9a9b1a4513a3576b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100DC300AC78000/The Messenger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100DC300AC78000/cheats/2A979C3FDF717642.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100DC300AC78000/cheats/D8E60563C302AA41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100E95004038000/Xenoblade Chronicles 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100E95004038000/cheats/6d34a75dbb68d4fb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F10009870000/Okami HD(JPN).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F10009870000/cheats/a4fddc7fd35b30cb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F15003E64000/Fire Emblem Warriors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F15003E64000/cheats/1953770037acc52a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F8F0000A2000/Splatoon 2(EUR).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100F8F0000A2000/cheats/25e4de94c55dc7a3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100FC000AEF0000/Dead Cells.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100FC000AEF0000/cheats/62f7f1e54f9353f8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100FF5005B76000/STRIKERS 1945.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100FF5005B76000/cheats/349e43d4f0e71aaa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100FF5005B76000/cheats/fe906f0365d9dcfe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a250097f0000/Dragon Ball FighterZ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a250097f0000/cheats/ef3a27c7a00fb584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a55003b5c000/Cave Story+ (EUR).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a55003b5c000/cheats/3ca7b62064697713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a6300150c000/Wonder Boy The Dragons Trap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a6300150c000/cheats/13793f02e257147f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100a6300150c000/cheats/c5fed26bf457566d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ac40038f4000/ACA NEOGEO AERO FIGHTERS 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ac40038f4000/cheats/ef700397005b93f4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ac40038f4000/cheats/fa6b540277e62dac.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ae00096ea000/Hyrule Warriors Definitive Edition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ae00096ea000/cheats/815a2c19d1767896.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b0c0086b0000/Mega Man 11 (USA).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b0c0086b0000/Mega Man 11(US).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b0c0086b0000/cheats/047fdd0c5af5f1c5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b0c0086b0000/cheats/3469a1b2e0fea93c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b42001db4000/ACA NEOGEO KOF 98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b42001db4000/cheats/1e7696ee3bf2324e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b7d0022ee000/Cave Story+ (USA).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b7d0022ee000/cheats/5d678e584423275c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b7d0022ee000/cheats/c013b93e5320cf27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b91008780000/ACA NEOGEO AERO FIGHTERS 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b91008780000/cheats/80fb5c02f0e4292a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b97002b44000/ACA NEOGEO KOF 2000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100b97002b44000/cheats/e1e188aa898b0ac6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ba8001dc6000/ACA NEOGEO METAL SLUG 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ba8001dc6000/cheats/51b72bba4010216e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100bc60099fe000/Iconoclasts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100bc60099fe000/cheats/4e1c499387103542.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100cb2001db8000/ACA NEOGEO Garou - Mark of the Wolves.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100cb2001db8000/cheats/bc47ad4e7bed34e3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100d170038ea000/ACA NEOGEO SENGOKU.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100d170038ea000/cheats/70e6912bebf57a0a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100d1b006744000/Crash Bandicoot N. Sane Trilogy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100d1b006744000/cheats/29e1a37d84227147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100dfc003398000/ACA NEOGEO BLAZING STAR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100dfc003398000/cheats/d17185a3fade4afa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100e65002bb8000/Stardew Valley.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100e65002bb8000/cheats/44ba37318c492264.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100e65002bb8000/cheats/82bb1dcc333f089a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100eb2001dcc000/ACA NEOGEO KOF 94.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100eb2001dcc000/cheats/11433c3afee06e02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ebe002b3e000/ACA NEOGEO METAL SLUG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ebe002b3e000/cheats/31196c8f3970cd2a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ee6002b48000/ACA NEOGEO Fatal Fury.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/0100ee6002b48000/cheats/0f9affb0ccbead2e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS-Cheats/titles/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SXOS_CheatCheck.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../script.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aKIhA5WBntYzz716fEmz2YLJ6A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Scraper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4c5935-db69-47c3-82e0-87734b1c77ce" name="Default Changelist" comment="" />
+      <created>1586477975287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586477975287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="283" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1586634056108">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="558" y="283" key="#com.intellij.debugger.actions.ViewTextAction/0.23.1440.797@0.23.1440.797" timestamp="1586634056108" />
+    <state width="481" height="466" key="DebuggerActiveHint" timestamp="1586632622430">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="481" height="466" key="DebuggerActiveHint/0.23.1440.797@0.23.1440.797" timestamp="1586632622430" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1586883013640">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586883013640" />
+    <state width="1398" height="279" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1586826822179" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1586883013638">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586883013638" />
+    <state width="1398" height="279" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1586826822178" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1586883013637">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586883013637" />
+    <state width="1398" height="279" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1586826822178" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1586883013639">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586883013639" />
+    <state width="1398" height="279" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1586826822179" />
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom" timestamp="1586883171932">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586883171932" />
+    <state width="1398" height="279" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1586826821965" />
+    <state width="1398" height="279" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586826854641" />
+    <state width="1398" height="237" key="GridCell.Tab.1.center" timestamp="1586883171931">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1586883171931" />
+    <state width="1398" height="279" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1586826821965" />
+    <state width="1398" height="279" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1586826854641" />
+    <state width="1398" height="237" key="GridCell.Tab.1.left" timestamp="1586883171930">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1586883171930" />
+    <state width="1398" height="279" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1586826821964" />
+    <state width="1398" height="279" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1586826854640" />
+    <state width="1398" height="237" key="GridCell.Tab.1.right" timestamp="1586883171931">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1586883171931" />
+    <state width="1398" height="279" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1586826821965" />
+    <state width="1398" height="279" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1586826854641" />
+    <state width="720" height="399" key="XDebugger.FullValuePopup" timestamp="1586827098825">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="720" height="398" key="XDebugger.FullValuePopup/0.23.1440.797@0.23.1440.797" timestamp="1586637776632" />
+    <state width="720" height="399" key="XDebugger.FullValuePopup/0.23.1440.798@0.23.1440.798" timestamp="1586827098825" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586478032785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586478032785" />
+    <state x="281" y="157" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586633672213">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="281" y="157" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.797@0.23.1440.797" timestamp="1586633672213" />
+    <state x="385" y="191" width="670" height="675" key="run.anything.popup" timestamp="1586633319549">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="191" width="670" height="675" key="run.anything.popup/0.23.1440.797@0.23.1440.797" timestamp="1586633319549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/Snovio_API.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/Snovio_API.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/Snovio_API.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
